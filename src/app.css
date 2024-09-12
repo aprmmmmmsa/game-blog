@@ -1,0 +1,71 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/**{
+    border: 1px lightcoral solid;
+}
+/*html, body{
+    height:100%;
+    width: 100%;
+    margin: 0;
+}
+div#horiznav{
+    background-color: #121A3A;
+    width: 100%;
+    height: 75px;
+    padding: 15px;
+    
+}
+div#logo{
+    margin-top: 10px;
+    padding-left: 40px;
+    color: #E2FF70;
+    float: left;
+    clear: right;
+}
+input{
+    height: 30px;
+    margin: 10px 100px;
+    border-radius: 10px;
+}
+#horiznav a{
+    color: #FCFFDA;
+    text-decoration: underline;
+    float: right;
+    margin: 10px 50px;
+}
+div#verticalnav{
+    width: 18%;
+    height: 100%;
+    background-color: #121A3A;
+    float: left;
+    position: fixed;
+    overflow: auto;
+}
+nav{
+    height: auto;
+    padding-top: 50px;
+    color: #FCFFDA;
+    list-style: none;
+}
+nav li{
+    padding: 20px 60px;
+}
+nav a{
+    width: auto;
+}
+nav a:hover li{
+    background-color: #1A2140;
+    color: #E2FF70;
+}
+nav a:active li{
+    background-color: #FCFFDA;
+    color: #121A3A;
+    transition: 1s;
+}
+div#container{
+    background-color: #1A2140;
+    width: 100%;
+    height: 100%;
+}*/
